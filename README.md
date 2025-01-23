@@ -5,11 +5,13 @@ Note that this selection focuses on projects related to data science with [**`R`
 
 **N.B.** These badges have been created with [**shields.io**](https://shields.io/badges)
 
+<br/>
+
 ### Repository type badges
 
 | Badge | Description |
 |:------|:------------|
-| ![Research compendium](https://img.shields.io/static/v1?message=Compendium&logo=r&labelColor=5c5c5c&color=yellowgreen&logoColor=white&label=%20) | The project is a [research compendium](https://cran.r-project.org/web/packages/rcompendium/vignettes/working_with_a_compendium.html) |
+| ![Research compendium](https://img.shields.io/static/v1?message=Compendium&logo=r&labelColor=5c5c5c&color=yellowgreen&logoColor=white&label=%20) | The project is a [Research compendium](https://cran.r-project.org/web/packages/rcompendium/vignettes/working_with_a_compendium.html) |
 | ![Package](https://img.shields.io/static/v1?message=Package&logo=r&labelColor=5c5c5c&color=yellowgreen&logoColor=white&label=%20) | The project is a [R package](https://r-pkgs.org/) |
 | ![Quarto presentation](https://img.shields.io/static/v1?message=Presentation&logo=quarto&labelColor=5c5c5c&color=yellowgreen&logoColor=white&label=%20) | The project is a [Quarto presentation](https://quarto.org/docs/presentations/) |
 | ![Quarto website](https://img.shields.io/static/v1?message=Website&logo=quarto&labelColor=5c5c5c&color=yellowgreen&logoColor=white&label=%20) | The project is a [Quarto Website](https://quarto.org/docs/websites/) |
@@ -17,6 +19,7 @@ Note that this selection focuses on projects related to data science with [**`R`
 | ![Quarto book](https://img.shields.io/static/v1?message=Book&logo=quarto&labelColor=5c5c5c&color=yellowgreen&logoColor=white&label=%20) | The project is a [Quarto Book](https://quarto.org/docs/books/) |
 
 
+<br/>
 
 ### Lifecycle badges
 
@@ -29,10 +32,9 @@ Note that this selection focuses on projects related to data science with [**`R`
 | ![Lifecycle Retired](https://img.shields.io/badge/Lifecycle-Retired-d45500) | The project is no longer being used and/or supported |
 
 
-> **Source:** <https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md>
+> **_Source:_** <https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md>
 
 
-
-### Repository status badges
+<br/>
 
 ### License badges
