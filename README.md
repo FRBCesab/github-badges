@@ -10,10 +10,10 @@ Note that this selection focuses on projects related to data science with [**`R`
 |:------|:------------|
 | ![Research compendium](https://img.shields.io/static/v1?message=Compendium&logo=r&labelColor=5c5c5c&color=yellowgreen&logoColor=white&label=%20) | |
 | ![Package](https://img.shields.io/static/v1?message=Package&logo=r&labelColor=5c5c5c&color=yellowgreen&logoColor=white&label=%20) | |
-| ![Quarto presentation](https://img.shields.io/static/v1?message=Presentation&logo=quarto&labelColor=5c5c5c&color=yellowgreen&logoColor=white&label=%20) | |
-| ![Quarto website](https://img.shields.io/static/v1?message=Website&logo=quarto&labelColor=5c5c5c&color=yellowgreen&logoColor=white&label=%20) | |
-| ![Quarto blog](https://img.shields.io/static/v1?message=Blog&logo=quarto&labelColor=5c5c5c&color=yellowgreen&logoColor=white&label=%20) | |
-| ![Quarto book](https://img.shields.io/static/v1?message=Book&logo=quarto&labelColor=5c5c5c&color=yellowgreen&logoColor=white&label=%20) | |
+| ![Quarto presentation](https://img.shields.io/static/v1?message=Presentation&logo=quarto&labelColor=5c5c5c&color=yellowgreen&logoColor=white&label=%20) | The project is a [Quarto presentation](https://quarto.org/docs/presentations/) |
+| ![Quarto website](https://img.shields.io/static/v1?message=Website&logo=quarto&labelColor=5c5c5c&color=yellowgreen&logoColor=white&label=%20) | The project is a [Quarto Website](https://quarto.org/docs/websites/) |
+| ![Quarto blog](https://img.shields.io/static/v1?message=Blog&logo=quarto&labelColor=5c5c5c&color=yellowgreen&logoColor=white&label=%20) | The project is a [Quarto Blog](https://quarto.org/docs/websites/website-blog.html) |
+| ![Quarto book](https://img.shields.io/static/v1?message=Book&logo=quarto&labelColor=5c5c5c&color=yellowgreen&logoColor=white&label=%20) | The project is a [Quarto Book](https://quarto.org/docs/books/) |
 
 ### Lifecycle badges
 
