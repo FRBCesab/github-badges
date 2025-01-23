@@ -1,6 +1,7 @@
 # GitHub Badges
 
-A selection of repository badges used 
+A selection of repository badges that can be added to any GitHub README related to data science with R.
+
 
 ### Repository type badges
 
