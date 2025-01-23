@@ -18,9 +18,9 @@ A selection of repository badges used
 |:------|:------------|
 | ![Lifecycle Experimental](https://img.shields.io/badge/Lifecycle-Experimental-339999) | |
 | ![Lifecycle Maturing](https://img.shields.io/badge/Lifecycle-Maturing-007EC6) | |
-| ![Lifecycle:Stable](https://img.shields.io/badge/Lifecycle-Stable-97ca00)] | |
-| ![Lifecycle:Dormant](https://img.shields.io/badge/Lifecycle-Dormant-ff7f2a)] | |
-| ![Lifecycle:Retired](https://img.shields.io/badge/Lifecycle-Retired-d45500)] | |
+| ![Lifecycle Stable](https://img.shields.io/badge/Lifecycle-Stable-97ca00) | |
+| ![Lifecycle Dormant](https://img.shields.io/badge/Lifecycle-Dormant-ff7f2a) | |
+| ![Lifecycle Retired](https://img.shields.io/badge/Lifecycle-Retired-d45500) | |
 
 
 ### Repository status badges
