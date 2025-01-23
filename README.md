@@ -1,6 +1,7 @@
 # GitHub Badges
 
-A selection of repository badges that can be added to any GitHub README related to data science with R.
+A selection of repository badges that can be added to a [README](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) ([Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) syntax) to help visitors understand the project.
+Note that this selection focuses on projects related to data science with [`R`](https://cran.r-project.org/).
 
 
 ### Repository type badges
@@ -12,6 +13,7 @@ A selection of repository badges that can be added to any GitHub README related 
 | ![Quarto presentation](https://img.shields.io/static/v1?message=Presentation&logo=quarto&labelColor=5c5c5c&color=yellowgreen&logoColor=white&label=%20) | |
 | ![Quarto website](https://img.shields.io/static/v1?message=Website&logo=quarto&labelColor=5c5c5c&color=yellowgreen&logoColor=white&label=%20) | |
 | ![Quarto blog](https://img.shields.io/static/v1?message=Blog&logo=quarto&labelColor=5c5c5c&color=yellowgreen&logoColor=white&label=%20) | |
+| ![Quarto book](https://img.shields.io/static/v1?message=Book&logo=quarto&labelColor=5c5c5c&color=yellowgreen&logoColor=white&label=%20) | |
 
 ### Lifecycle badges
 
