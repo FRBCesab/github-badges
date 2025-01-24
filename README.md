@@ -5,6 +5,11 @@ Note that this selection focuses on projects related to data science with [**`R`
 
 **N.B.** These badges have been created with [**shields.io**](https://shields.io/badges)
 
+
+> [!TIP]
+> To use these badges, copy the **Markdown expression** from the [Raw README](https://raw.githubusercontent.com/FRBCesab/github-badges/refs/heads/main/README.md).
+
+
 <br/>
 
 ### Repository type badges
