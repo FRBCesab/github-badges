@@ -1,5 +1,11 @@
 # GitHub Badges
 
+<!-- badges: start -->
+[![License CC0 1.0](https://img.shields.io/badge/License-CC0_1.0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+![Lifecycle Maturing](https://img.shields.io/badge/Lifecycle-Maturing-007EC6)
+<!-- badges: end -->
+
+
 A selection of repository badges that can be added to a [README](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) ([Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) syntax) to help visitors understand the project.
 Note that this selection focuses on projects related to data science with [**`R`**](https://cran.r-project.org/).
 
